@@ -1,0 +1,19 @@
+# List of relevant papers and datasets
+
+---
+
+## Papers
+
+Denoising approach we plan to use: https://www.science.org/doi/10.1126/science.ads2688
+
+Geometric flow: https://www.nature.com/articles/s41524-024-01428-x
+
+Paper that data is from: https://doi.org/10.1038/s41563-025-02138-5
+
+Plan is to use a fusion of the methodology from first and second papers, and apply it to the data from the third paper.
+
+---
+
+## Data 
+
+Sean Collins' data: https://archive.researchdata.leeds.ac.uk/1371/
